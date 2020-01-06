@@ -1,5 +1,12 @@
 {
   "dependencies": {
     "discord.js": "discordjs/discord.js"
-  }
+  },
+  "name": "Projet",
+  "version": "1.0.0",
+  "description": "Bot Discord PlayHer",
+  "main": "main.js",
+  "repository": "https://github.com/PlayHer/bot-discord.git",
+  "author": "Caroline Florentz <caroline.florentz@gmail.com>",
+  "license": "MIT"
 }
